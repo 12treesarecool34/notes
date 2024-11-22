@@ -1,4 +1,6 @@
-Tree Notify
-Announcements: None
-Status: Unblocked, Online - 2 Issues:
+Tree Notify - 0 Announcements, 2 Issues
+Announcements:
+None
+
+Issues:
 The Pizza Editions (Cookie) is Blocked, The Pizza Editions (Bean) is Blocked
