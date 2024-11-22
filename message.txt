@@ -1,6 +1,4 @@
-%n Title1
-Tree1
-%n Title2
-Tree2
-%n Title7
-Tree7
+%n Notify - Announcements
+Tree: Browser is going to get deleted on 11/25/2024
+%n Notify - Issues
+Currently, Securly has blocked: 12cookiesarecool34, 12beansarecool34
