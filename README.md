@@ -1,2 +1,2 @@
 Announcement
-GitHub
+GitHuB
