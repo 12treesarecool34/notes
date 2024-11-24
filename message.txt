@@ -6,4 +6,4 @@ Currently, Securly has blocked: 12cookiesarecool34, 12beansarecool34
 Notify is the notification service for Tree sites.
 Without it, they will not work correctly.
 %n Notify - New Message
-Notify was not able to send a new message.
+Notify was not able to send a new mwssage.
