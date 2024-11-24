@@ -1,5 +1,7 @@
+%n Notify - TEST NOTIFICATION
+This is a test notification which can be dismissed.
 %n Notify - Announcements
-Tree: Games Blank Mode released - Play games in a tab Securly can't see.
+Games Blank Mode released - Play games in a tab Securly can't see.
 %n Notify - Issues
 Currently, Securly has blocked: 12cookiesarecool34, 12beansarecool34
 %n Notify - What is Notify
