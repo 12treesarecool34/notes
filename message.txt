@@ -1,4 +1,5 @@
-%n Announcements
-Games Blank Mode - Play games in a tab Securly can't see.
-%n Blocked
+%n Notify - Announcements
+Games Blank Mode has been released!
+Play games in a tab Securly can't see.
+%n Notify - Blocked
 Currently, Securly has blocked: 12cookiesarecool34, 12beansarecool34
