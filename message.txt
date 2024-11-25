@@ -4,4 +4,4 @@ Play games in a tab Securly can't see.
 %n Notify - Blocked
 Currently, Securly has blocked: 12cookiesarecool34, 12beansarecool34
 %n TEST
-THIS IS A TEST NOTIFICATION
+THIS IS A TEST NOTIFICATION (2)
