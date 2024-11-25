@@ -1,7 +1,4 @@
-%n Notify - Announcements
-Games Blank Mode released - Play games in a tab Securly can't see.
-%n Notify - Issues
+%n Announcements
+Games Blank Mode - Play games in a tab Securly can't see.
+%n Blocked
 Currently, Securly has blocked: 12cookiesarecool34, 12beansarecool34
-%n Notify - What is Notify
-Notify is the notification service for Tree sites.
-Without it, they will not work correctly.
