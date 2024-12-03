@@ -1,4 +1,4 @@
 %n Notify - Announcements
-Featured: HideURL open websites in a tab Securly can't see.
+Securly has blocked everything, so Tree won't work anymore.
 %n Notify - Blocked
-Currently, Securly has blocked: 12cookiesarecool34, 12beansarecool34
+Currently, Securly has blocked: EVERYTHING
